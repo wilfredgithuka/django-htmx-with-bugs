@@ -1,0 +1,11 @@
+asgiref==3.5.2
+crispy-bootstrap5==0.6
+Django==4.1.1
+django-crispy-bootstrap==0.1.1.1
+django-crispy-forms==1.14.0
+django-filter==22.1
+django-htmx==1.12.2
+django-listing==0.0.12
+django-tables2==2.4.1
+sqlparse==0.4.3
+tablib==3.2.1
